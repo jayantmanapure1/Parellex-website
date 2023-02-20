@@ -59,3 +59,10 @@ html,body{
    background-image: url(./assat/image3.png);
    min-height: 400px;
  }
+ @media only screen and (max-width: 658px) {
+   /* For mobile phones: */
+  .ptext{
+   font-size:15px;
+     letter-spacing:5px;
+  }
+}
